@@ -14,7 +14,7 @@ If the host device, the one you’re trying to connect to, is assigned to a part
 
 Disabling this functionality in favor of Easy Access (more on that below) makes sense if you assign the device to an account or group because Easy Access requires a TeamViewer account. You can secure TeamViewer accounts by two-factor authentication and other measures. Taking away the ability for outsiders to guess your personal password adds another layer of security for unattended access.
 
-*Check that setting under Options > Advanced > Personal password.*
+***Check that setting under Options > Advanced > Personal password.***
 
 ### Enable Easy Access
 
@@ -22,9 +22,9 @@ The newest secure way to access a device with TeamViewer is through Easy Access.
 
 This approach is more secure than those involving passwords due to one powerful feature: two-factor authentication. Securing your TeamViewer account with two-factor authentication significantly reduces the chances of someone other than you is accessing your device(s). For more on how to enable two-factor authentication at the account level, check out our TeamViewer Community article.
 
-*If someone already assigned the device to your TeamViewer account: Click Extras –> Options –> Security –> under Unattended access, activate the checkbox Grant easy access –> click OK.*
+***If someone already assigned the device to your TeamViewer account: Click Extras –> Options –> Security –> under Unattended access, activate the checkbox Grant easy access –> click OK.***
 
-*If the device is not yet assigned to your TeamViewer account: Click Extras –> Options –> Security –> click the Configure button –> The Assign to account dialog box will open –> Click the Assign button –> Under Personal Password (for unattended access), activate the Grant easy access checkbox –> click OK.*
+***If the device is not yet assigned to your TeamViewer account: Click Extras –> Options –> Security –> click the Configure button –> The Assign to account dialog box will open –> Click the Assign button –> Under Personal Password (for unattended access), activate the Grant easy access checkbox –> click OK.***
 
 **Block and Allowlist**
 
@@ -34,7 +34,7 @@ Blocklist: TeamViewer accounts or device IDs that appear on your device’s Bloc
 
 Allowlist: Only TeamViewer accounts and device IDs that are added to the Allowlist can make connections to your device. Stick to accounts for your Allowlist whenever possible; after all, someone you wouldn’t approve could be using an approved device. This is ideal if you know that only certain people should have remote access to your device. Of course, you can add groups or even your entire company to the Allowlist, if that’s appropriate.
 
-*You can configure your lists under Extras –> Options –> Security –> Block and Allowlist –> Click on Configure.*
+***You can configure your lists under Extras –> Options –> Security –> Block and Allowlist –> Click on Configure.***
 
 ### Consider Two-Factor Authentication for Connections
 
