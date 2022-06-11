@@ -42,3 +42,4 @@ We’ve recently added two-factor authentication (TFA) at the connection level i
 
 When someone attempts a connection to the secured device, you can receive a push notification on your phone that includes the device ID that is attempting the connection, as well as a prompt to approve or deny the request. If you have made unattended access available for a device to which only a few connections may be made or should only be accessed by you, like your desktop computer at work, TFA can provide an extra level of security.
 
+Source: https://www.teamviewer.com/en/unattended-access-security/?os=windows&language=en-us&country=BE

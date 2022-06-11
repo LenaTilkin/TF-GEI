@@ -24,3 +24,5 @@ While the fix is being worked on, you can resolve the issue through a workaround
   A. Use the Software feature by updating the vmx file:
 
 - Before starting the installation process. Edit the vmx file for the newly created VM and add managedVM.autoAddVTPM = "software"
+
+Source: https://kb.vmware.com/s/article/86207
