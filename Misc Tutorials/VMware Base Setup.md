@@ -3,9 +3,9 @@
 
 
 1. Install VMware Tools
-2. Update
-3. Disable Firewall (firewall.cpl)
-4. Disable Sleep (powercfg.cpl)
+2. Disable Sleep (powercfg.cpl)
+3. Update
+4. Disable Firewall (firewall.cpl)
 5. Setup 1 CPU 2 Cores
 6. 4GB Ram
 7. Network: Host Only
